@@ -1,4 +1,4 @@
-# Robo Lawyer for your slack channel
+# A slack bot to improve your tweets
 
 Build locally
 
